@@ -1,0 +1,29 @@
+<!doctype html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<html>
+<head>
+  <title>A. P. Vijay Rengarajan | Department of Electrical Engineering | IIT Madras</title>
+  <meta name="author" content="A. P. Vijay Rengarajan">
+  <link href='http://fonts.googleapis.com/css?family=Coda' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Roboto:400,400italic,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="../css/main.css" />
+</head>
+
+<body>
+<section class="box">
+<div class="box-centre">
+<h4>Biscuit Convergence</h4>
+\sum_{n=1}^\infty \frac{1}{2^n} = 1
+
+
+A salt biscuit of ₹2. I observed the convergence of the above series while eating the biscuit. Eat half of what you have  continuously. Eventually after some time, you will end up eating the whole biscuit.
+
+You can try too.
+
+It might take a long time.
+<br>
+</div>
+</section>
+
+</body>
+</html>

@@ -1,0 +1,47 @@
+body{
+  background-color:#cccccc;
+}
+.box{
+  width:850px;
+  margin:auto;
+}
+.box-left, .box-right, .box-centre{
+  background:#ffffff;
+  margin:10px 10px 10px 10px;
+  border:0px solid maroon;
+  border-radius:5px;
+}
+.box-left{
+  float:left;
+  width:400px;
+}
+.box-right{
+  float:right;
+  width:400px;
+}
+.box-centre{
+  width:830px;
+}
+p{
+  padding-left:5px;
+  padding-bottom:5px;
+}
+table{
+  padding-left:5px;
+  padding-bottom:5px;
+}
+p, table, ul, h3, h4{
+  font-family: "Roboto", sans-serif;
+}
+h2, h3, h4{
+  padding-left:5px;
+  padding-top:5px;
+}
+h2{
+  font-family: "Coda", sans-serif;
+  color: maroon;
+}
+a{
+  color:maroon;
+  text-decoration:none;
+}
